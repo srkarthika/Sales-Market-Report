@@ -6,7 +6,7 @@ A hardware company specialize in  PCs, Mouse, keyboards, and printers.
 
 **TASKS**
 
-Utilized Power Query to Extract, Transform, and Load (ETL) data, performing tasks such as data extraction from multiple sources, transformations on various columns, and loading into desired tables, allowing us to manage data and analyze it thoroughly.
+>  Utilized Power Query to Extract, Transform, and Load (ETL) data, performing tasks such as data extraction from multiple sources, transformations on various columns, and loading into desired tables, allowing us to manage data and analyze it thoroughly.
 
 Built robust data models to discover complex relationships using Power Pivot, leveraging DAX measures, and facilitating the creation of new calculated columns and measures empowering advanced data analysis and insights generation.
 
