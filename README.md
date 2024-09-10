@@ -30,3 +30,18 @@ A hardware company specialize in  PCs, Mouse, keyboards, and printers.
 > **New Products 2021** – Analyzed the performance of New products launched in the year 2021
 
 > **Top 5 countries** – Highlighted the sales of the top 5 best-performing countries
+
+**FINANCE REPORTS**
+
+> **Profit and Loss Report by Fiscal Year**
+Net sales and COGS experienced significant growth, with a 204.5% and 208.6% increase, respectively, from 2020 to 2021.
+Our gross margin for the year 2021 increased 197.6% as compared to 2021, reaching 218.2 Million USD.
+However, the gross margin percentage witnessed a slight decrease (2.3%) during the same period.
+
+> **Profit and Loss Report by Fiscal Months and Quarters**
+Analyzed performance of each Quarter highlighting the patterns in Net Sales, COGS and Gross Margin
+
+> **Profit and Loss Report by Markets**
+Created a comprehensive country-level report tailored for regional managers' insights and decision-making.
+
+
